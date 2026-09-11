@@ -4,10 +4,10 @@ A sales dashboard for a retail company covering revenue, profit, product categor
 
 # Screenshots
 
-![Executive](SalesAnalysis/Screenshots/Executive_report.png)
-![Product](SalesAnalysis/Screenshots/Product_report.png)
-![Store](SalesAnalysis/Screenshots/Store_report.png)
-![Customer](SalesAnalysis/Screenshots/Customer_report.png)
+![Executive](Screenshots/Executive_report.png)
+![Product](Screenshots/Product_report.png)
+![Store](Screenshots/Store_report.png)
+![Customer](Screenshots/Customer_report.png)
 
 # Report Structure
 
