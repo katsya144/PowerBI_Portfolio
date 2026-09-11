@@ -4,9 +4,9 @@ A financial dashboard for a SaaS company covering P&L, cash flow, and unit econo
 
 # Screenshots
 
-![P&L](Screenshots/pl.png)
-![Cash Flow](Screenshots/cashflow.png)
-![Unit Economics](Screenshots/unit_economics.png)
+![P&L](Screenshots/P_and_L.png)
+![Cash Flow](Screenshots/CashLiquidity.png)
+![Unit Economics](Screenshots/UnitEconomics.png)
 
 # Report Structure
 
